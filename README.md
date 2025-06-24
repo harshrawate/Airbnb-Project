@@ -20,5 +20,5 @@ Backend
 Database
 -MongoDB
 -Image Storage
-Cloudinary.
+Cloudinary
 
