@@ -16,7 +16,7 @@ Tech Stack
 -Material-UI
 Backend
 -Node.js
--Express.js
+-Express.js.
 Database
 -MongoDB
 -Image Storage
